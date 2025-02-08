@@ -1,8 +1,8 @@
 # Tableau
-## This project explores the Netflix dataset using Tableau, a powerful data visualization tool. It aims to analyze and visualize various aspects of Netflix's content catalog and provide insights into the streaming platform.
+ This project explores the Netflix dataset using Tableau, a powerful data visualization tool. It aims to analyze and visualize various aspects of Netflix's content catalog and provide insights into the streaming platform.
 
 # Description
-## The Netflix Data Analysis project utilizes Tableau to create interactive visualizations and dashboards based on the Netflix dataset. It provides insights into different aspects such as content distribution, genres, release dates, and ratings.
+ The Netflix Data Analysis project utilizes Tableau to create interactive visualizations and dashboards based on the Netflix dataset. It provides insights into different aspects such as content distribution, genres, release dates, and ratings.
 
 The project includes various visualizations to answer questions like:
 
@@ -12,4 +12,4 @@ The project includes various visualizations to answer questions like:
 4.What is the average rating of movies and TV shows on Netflix?
 
 # Dataset
-## The dataset used for this project is the Netflix Movies and TV Shows dataset available on Kaggle. It contains information about various movies and TV shows available on Netflix, including attributes like title, director, cast, country, release year, rating, and more.
+ The dataset used for this project is the Netflix Movies and TV Shows dataset available on Kaggle. It contains information about various movies and TV shows available on Netflix, including attributes like title, director, cast, country, release year, rating, and more.
